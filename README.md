@@ -1,8 +1,7 @@
 # car-price-prediction-IITB
 
 #BUISNESS UNDERSTANDING#
-car is a system
-which has input features such as enginesize,body,engine locaton,Brand of car 
+Car is a system which has input features such as enginesize,body,engine locaton,Brand of car 
 output performance are messured by  such as peak rpm,city mpg,horsepower ,highway mpg,symboling 
 we have to best establish relation between them to predict price of car!
 
